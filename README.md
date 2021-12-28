@@ -34,7 +34,7 @@ This app was built using HTML 3, and Javascript
 
 [Repository](https://github.com/jmoniz155/rock-paper-scissors)
 
-[Live Website]()
+[Live Website](https://jmoniz155.github.io/rock-paper-scissors/)
 
 
 ## Author
